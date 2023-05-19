@@ -1,7 +1,7 @@
 # General
 __
 
-#ALX Simple Shell Team Project
+## ALX Simple Shell Team Project
 
 
 * Who designed and implemented the original Unix operating system

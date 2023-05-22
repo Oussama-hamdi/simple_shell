@@ -2,4 +2,4 @@
 
 ## ALX Simple Shell Team Project
 
-### C Is Func
+### C Is Fun

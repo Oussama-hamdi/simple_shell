@@ -6,7 +6,7 @@
 
 void prompt(void)
 {
-	printf("$ "); /* Change the prompt as desired */
+	printf("$ ");
 }
 
 /**
